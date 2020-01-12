@@ -1,6 +1,6 @@
 package com.poc.ws.PocSBA7.domain;
 
-import com.poc.ws.dto.UserDTO;
+import com.poc.ws.PocSBA7.dto.UserDTO;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.DBRef;
 import org.springframework.data.mongodb.core.mapping.Document;

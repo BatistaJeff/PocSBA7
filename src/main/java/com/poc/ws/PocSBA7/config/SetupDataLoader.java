@@ -1,10 +1,10 @@
 package com.poc.ws.PocSBA7.config;
 
-import com.poc.ws.domain.Role;
-import com.poc.ws.domain.User;
-import com.poc.ws.repository.RoleRepository;
-import com.poc.ws.repository.UserRepository;
-import com.poc.ws.repository.VerificationTokenRepository;
+import com.poc.ws.PocSBA7.domain.Role;
+import com.poc.ws.PocSBA7.domain.User;
+import com.poc.ws.PocSBA7.repository.RoleRepository;
+import com.poc.ws.PocSBA7.repository.UserRepository;
+import com.poc.ws.PocSBA7.repository.VerificationTokenRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.annotation.Configuration;
